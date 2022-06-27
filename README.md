@@ -32,4 +32,6 @@ THEN the saved events persist
 * Font Awesome https://fontawesome.com/
 
 ## Links
+* GitHub Repository - https://github.com/ausbosspoland/Workday-Disco
+* GitHub Pages - https://ausbosspoland.github.io/Workday-Disco/
 
