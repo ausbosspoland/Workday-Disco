@@ -35,3 +35,7 @@ THEN the saved events persist
 * GitHub Repository - https://github.com/ausbosspoland/Workday-Disco
 * GitHub Pages - https://ausbosspoland.github.io/Workday-Disco/
 
+## Screenshot
+
+![HomePageScreenshot](/assets/images/HomePage1.png)
+![HomePage2Screenshot](/assets/images/HomePage2.png)
